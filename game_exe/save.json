@@ -71,7 +71,7 @@
         "Is_king": false
       },
       {
-        "Color_check": "black",
+        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -99,90 +99,6 @@
       },
       {
         "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      }
-    ],
-    [
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      }
-    ],
-    [
-      {
-        "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -239,7 +155,7 @@
         "Is_king": false
       },
       {
-        "Color_check": "clear",
+        "Color_check": "black",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -313,6 +229,43 @@
         "Is_king": false
       },
       {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
         "Color_check": "white",
         "Color_cell": "black",
         "Is_king": false
@@ -324,6 +277,53 @@
       },
       {
         "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -339,12 +339,12 @@
       }
     ]
   ],
-  "Now_player": "black",
+  "Now_player": "white",
   "Clicks": [],
   "Change_color": [],
   "Need_beat": null,
   "Winner": "None",
-  "LastClickTime": 1750309121573371500,
+  "LastClickTime": 1756132162075144000,
   "ClickDelay": 200000000,
   "Menu": {
     "StartButton": {

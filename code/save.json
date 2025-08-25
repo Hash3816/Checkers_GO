@@ -1,0 +1,503 @@
+{
+  "Width": 640,
+  "Height": 640,
+  "Field": [
+    [
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "white",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      }
+    ]
+  ],
+  "Now_player": "white",
+  "Clicks": [],
+  "Change_color": [],
+  "Need_beat": null,
+  "Winner": "None",
+  "LastClickTime": 1756134372633814500,
+  "ClickDelay": 200000000,
+  "Menu": {
+    "StartButton": {
+      "Min": {
+        "X": 220,
+        "Y": 270
+      },
+      "Max": {
+        "X": 420,
+        "Y": 320
+      }
+    },
+    "GameWithAI": {
+      "Min": {
+        "X": 220,
+        "Y": 340
+      },
+      "Max": {
+        "X": 420,
+        "Y": 390
+      }
+    },
+    "ContinueButton": {
+      "Min": {
+        "X": 220,
+        "Y": 410
+      },
+      "Max": {
+        "X": 420,
+        "Y": 460
+      }
+    },
+    "ExitButton": {
+      "Min": {
+        "X": 220,
+        "Y": 540
+      },
+      "Max": {
+        "X": 420,
+        "Y": 590
+      }
+    },
+    "RulesButton": {
+      "Min": {
+        "X": 220,
+        "Y": 480
+      },
+      "Max": {
+        "X": 420,
+        "Y": 530
+      }
+    },
+    "Active": false
+  },
+  "Buttons_in_game": {
+    "Save_Button": {
+      "Min": {
+        "X": 10,
+        "Y": 650
+      },
+      "Max": {
+        "X": 70,
+        "Y": 697
+      }
+    },
+    "Exit_Botton": {
+      "Min": {
+        "X": 80,
+        "Y": 650
+      },
+      "Max": {
+        "X": 140,
+        "Y": 697
+      }
+    },
+    "Rule_Button": {
+      "Min": {
+        "X": 150,
+        "Y": 650
+      },
+      "Max": {
+        "X": 210,
+        "Y": 697
+      }
+    },
+    "Tie_Button": {
+      "Min": {
+        "X": 220,
+        "Y": 650
+      },
+      "Max": {
+        "X": 295,
+        "Y": 697
+      }
+    },
+    "RegularFont": {}
+  },
+  "RulesScreen": {
+    "Active": false,
+    "BackButton": {
+      "Min": {
+        "X": 220,
+        "Y": 560
+      },
+      "Max": {
+        "X": 420,
+        "Y": 610
+      }
+    },
+    "TextLines": [
+      "Чтобы во время игры увидеть правила нажмите клавишу \"Tab\"",
+      "Чтобы выйти в главное меню нажмите клавишу \"Esc\"",
+      "Чтобы сохранить игру и выйти нажмите клавишу \"S\"",
+      "1. У каждого игрока по 12 шашек, которые расставляются по чёрным полям на",
+      "доске в 64 клетки (8х8).",
+      "2. Шашки двигаются только по чёрным полям, только вперёд по диагонали, на",
+      "свободное соседнее поле.",
+      "3. Начинают игру белые. Ходы делаются по очереди. Нельзя делать несколько ходов подряд.",
+      "4. Если белая и чёрная шашки находятся на соседних полях по диагонали, а поле",
+      "за шашкой противника свободно, то тот играющий, чья очередь ходить, обязан",
+      "побить (взять) шашку противника.",
+      "5. Брать шашку соперника можно ходом вперёд и ходом назад, если за ней есть",
+      "свободное поле.",
+      "6. Если шашка, двигаясь по доске, достигает переднего ряда, она сразу превращается в дамку,",
+      "которая может ходить, и вперёд, и назад по всей диагонали.",
+      "7. Если за шашкой соперника имеется несколько свободных полей подряд, дамка",
+      "может остановиться на любом из них.",
+      "8. Дамка может сразу брать несколько шашек, если за каждой из них есть",
+      "хотя бы одно свободное поле.",
+      "9. При обоюдном зажиме проигрывает тот, чья очередь хода."
+    ],
+    "ScrollY": 0,
+    "TitleFont": {},
+    "RegularFont": {}
+  },
+  "MassageScreen": {
+    "Active": false,
+    "Winner": "",
+    "MenuButton": {
+      "Min": {
+        "X": 0,
+        "Y": 0
+      },
+      "Max": {
+        "X": 0,
+        "Y": 0
+      }
+    }
+  },
+  "InMenu": true,
+  "AI": true,
+  "ShowRulesInGame": false,
+  "InGame": true,
+  "Proccesed_Exit_Button": false,
+  "Proccesed_Tie_Button": false
+}
