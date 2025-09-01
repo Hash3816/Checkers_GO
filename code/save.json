@@ -6,6 +6,16 @@
       {
         "Color_check": "white",
         "Color_cell": "black",
+        "Is_king": true
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
         "Is_king": false
       },
       {
@@ -14,7 +24,81 @@
         "Is_king": false
       },
       {
-        "Color_check": "white",
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      }
+    ],
+    [
+      {
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "black",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -51,16 +135,6 @@
         "Is_king": false
       },
       {
-        "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
         "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
@@ -81,14 +155,34 @@
         "Is_king": false
       },
       {
-        "Color_check": "black",
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       }
     ],
     [
       {
-        "Color_check": "white",
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -108,101 +202,7 @@
         "Is_king": false
       },
       {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
         "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      }
-    ],
-    [
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      }
-    ],
-    [
-      {
-        "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
-        "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -219,7 +219,17 @@
         "Is_king": false
       },
       {
-        "Color_check": "white",
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -239,34 +249,14 @@
         "Is_king": false
       },
       {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
         "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
         "Color_cell": "black",
         "Is_king": false
       }
     ],
     [
       {
-        "Color_check": "white",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
         "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "white",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -286,7 +276,17 @@
         "Is_king": false
       },
       {
-        "Color_check": "black",
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -303,7 +303,17 @@
         "Is_king": false
       },
       {
-        "Color_check": "white",
+        "Color_check": "clear",
+        "Color_cell": "black",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
+        "Color_cell": "white",
+        "Is_king": false
+      },
+      {
+        "Color_check": "clear",
         "Color_cell": "black",
         "Is_king": false
       },
@@ -323,17 +333,7 @@
         "Is_king": false
       },
       {
-        "Color_check": "black",
-        "Color_cell": "black",
-        "Is_king": false
-      },
-      {
         "Color_check": "clear",
-        "Color_cell": "white",
-        "Is_king": false
-      },
-      {
-        "Color_check": "black",
         "Color_cell": "black",
         "Is_king": false
       }
@@ -344,7 +344,7 @@
   "Change_color": [],
   "Need_beat": null,
   "Winner": "None",
-  "LastClickTime": 1756134372633814500,
+  "LastClickTime": 1756712612131421100,
   "ClickDelay": 200000000,
   "Menu": {
     "StartButton": {
@@ -380,11 +380,11 @@
     "ExitButton": {
       "Min": {
         "X": 220,
-        "Y": 540
+        "Y": 550
       },
       "Max": {
         "X": 420,
-        "Y": 590
+        "Y": 600
       }
     },
     "RulesButton": {

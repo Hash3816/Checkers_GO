@@ -453,6 +453,13 @@ func (game *Game) moveAI() {
 	player := "black"
 
 	moves := gen_player_moves(player, game.Field)
+	if len(moves) == 0 {
+		game.Winner = change_player(game.Now_player)
+		game.MassageScreen.Winner = game.Winner
+		game.MassageScreen.Active = true
+
+		return
+	}
 
 	bestMove := moves[0]
 	bestScore := -1 << 30
