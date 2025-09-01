@@ -344,7 +344,7 @@
   "Change_color": [],
   "Need_beat": null,
   "Winner": "None",
-  "LastClickTime": 1756132162075144000,
+  "LastClickTime": 1756137910110848300,
   "ClickDelay": 200000000,
   "Menu": {
     "StartButton": {
@@ -357,7 +357,7 @@
         "Y": 320
       }
     },
-    "ContinueButton": {
+    "GameWithAI": {
       "Min": {
         "X": 220,
         "Y": 340
@@ -367,17 +367,7 @@
         "Y": 390
       }
     },
-    "ExitButton": {
-      "Min": {
-        "X": 220,
-        "Y": 480
-      },
-      "Max": {
-        "X": 420,
-        "Y": 530
-      }
-    },
-    "RulesButton": {
+    "ContinueButton": {
       "Min": {
         "X": 220,
         "Y": 410
@@ -385,6 +375,26 @@
       "Max": {
         "X": 420,
         "Y": 460
+      }
+    },
+    "ExitButton": {
+      "Min": {
+        "X": 220,
+        "Y": 550
+      },
+      "Max": {
+        "X": 420,
+        "Y": 600
+      }
+    },
+    "RulesButton": {
+      "Min": {
+        "X": 220,
+        "Y": 480
+      },
+      "Max": {
+        "X": 420,
+        "Y": 530
       }
     },
     "Active": false
@@ -485,6 +495,7 @@
     }
   },
   "InMenu": true,
+  "AI": true,
   "ShowRulesInGame": false,
   "InGame": true,
   "Proccesed_Exit_Button": false,
